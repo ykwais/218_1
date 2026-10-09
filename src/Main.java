@@ -2,7 +2,7 @@
 public class Main {
 
   public static void main(String[] args) {
-    System.out.println("nautilus");
+    System.out.println("nautilus + hi-fi");
 
     System.out.printf("Hello and welcome!");
 
