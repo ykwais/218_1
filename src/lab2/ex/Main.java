@@ -56,6 +56,14 @@ public class Main {
       }
     }
 
+    if("s".equals(flag)){
+
+    } else if ("h".equals()){
+
+    } else{
+
+    }
+
     if(count == 0){
       System.out.println("Sorry, doesn't support any handler");
     }
